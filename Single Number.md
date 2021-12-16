@@ -1,5 +1,7 @@
 # Single Number
 
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/
+
 要找出陣列中只有出現一次的
 
 ```python
