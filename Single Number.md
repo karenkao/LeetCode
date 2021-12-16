@@ -33,8 +33,8 @@ class Solution:
 
 https://docs.python.org/zh-cn/3/library/operator.html
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5dfe0ecf-f21b-4fb8-86fd-5c54c78fa372/Untitled.png)
+![image](https://user-images.githubusercontent.com/88547312/146378683-d415695b-a737-4b62-a054-12762ee3b505.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/393ab18f-b0e2-4ed4-94f4-95a0d66dd92b/Untitled.png)
+![image](https://user-images.githubusercontent.com/88547312/146378641-bf15fd1f-f633-4742-9282-53be4729598a.png)
 
 主要使用 XOR ， XOR 就是 ^= ，XOR 的作用是如果當 3 ^= 0 會等於 3 ， 3 ^= 3 會等於 0
