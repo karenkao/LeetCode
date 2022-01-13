@@ -8,6 +8,7 @@
 - [Plus One](https://github.com/karenkao/LeetCode/blob/main/Plus%20One.md)
 - [Move Zeroes](https://github.com/karenkao/LeetCode/blob/main/Move%20Zeroes.md)
 - [Rotate Array](https://github.com/karenkao/LeetCode/blob/main/Rotate%20Array.md)
+- [Contains Duplicate](https://github.com/karenkao/LeetCode/blob/main/Contains%20Duplicate.md)
 
 
 ## Additional Information
