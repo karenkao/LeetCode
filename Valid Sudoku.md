@@ -101,6 +101,7 @@ class Solution(object):
             return self.isValidRow(board) and self.isValidCol(board) and self.isValidNineCell(board)
 ```
 
+- [] https://blog.csdn.net/coder_orz/article/details/51596499
 
 ## 參考
 - https://blog.csdn.net/fuxuemingzhu/article/details/82813653
