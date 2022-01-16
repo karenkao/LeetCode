@@ -42,3 +42,20 @@ class Solution(object):
         return output_arr
 ``` 
         
+再加快一些
+
+```python 
+class Solution(object):
+    def intersect(self, nums1, nums2):
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :rtype: List[int]
+        """
+    
+        output_arr = []
+        count1 =  collections.Counter(nums1)
+        count2 =  collections.Counter(nums2)
+
+        return (count1 & count2).elements()
+``` 
