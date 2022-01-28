@@ -1,6 +1,6 @@
 # LeetCode
 
-## Top Interview Questions
+## Top Interview Questions 19/50
 
 - [Two Sum](https://github.com/karenkao/LeetCode/blob/main/Two%20Sum.md)
 - [Single Number](https://github.com/karenkao/LeetCode/blob/main/Single%20Number.md)
