@@ -16,6 +16,11 @@
 - [Reverse Integer](https://github.com/karenkao/LeetCode/blob/main/Reverse%20Integer.md)
 - [Reverse String](https://github.com/karenkao/LeetCode/blob/main/Reverse%20String.md)
 - [Rotate Image](https://github.com/karenkao/LeetCode/blob/main/Rotate%20Image.md)
+- [First Unique Character in a String](https://github.com/karenkao/LeetCode/blob/main/First%20Unique%20Character%20in%20a%20String.md)
+- [Valid Anagram](https://github.com/karenkao/LeetCode/blob/main/Valid%20Anagram.md)
+- [Valid Palindrome](https://github.com/karenkao/LeetCode/blob/main/Valid%20Palindrome.md)
+- [Implement strStr()](https://github.com/karenkao/LeetCode/blob/main/Implement%20strStr().md)
+- [Longest Common Prefix](https://github.com/karenkao/LeetCode/blob/main/Longest%20Common%20Prefix.md)
 
 
 ## Additional Information
