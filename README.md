@@ -1,6 +1,6 @@
 # LeetCode
 
-## Top Interview Questions 19/50
+## Top Interview Questions 18/50
 
 - [Two Sum](https://github.com/karenkao/LeetCode/blob/main/Two%20Sum.md)
 - [Single Number](https://github.com/karenkao/LeetCode/blob/main/Single%20Number.md)
@@ -15,7 +15,6 @@
 - [Remove Duplicates from Sorted Array](https://github.com/karenkao/LeetCode/blob/main/Remove%20Duplicates%20from%20Sorted%20Array.md)
 - [Reverse Integer](https://github.com/karenkao/LeetCode/blob/main/Reverse%20Integer.md)
 - [Reverse String](https://github.com/karenkao/LeetCode/blob/main/Reverse%20String.md)
-- [Rotate Image](https://github.com/karenkao/LeetCode/blob/main/Rotate%20Image.md)
 - [First Unique Character in a String](https://github.com/karenkao/LeetCode/blob/main/First%20Unique%20Character%20in%20a%20String.md)
 - [Valid Anagram](https://github.com/karenkao/LeetCode/blob/main/Valid%20Anagram.md)
 - [Valid Palindrome](https://github.com/karenkao/LeetCode/blob/main/Valid%20Palindrome.md)
