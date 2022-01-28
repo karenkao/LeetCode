@@ -12,6 +12,10 @@
 - [Intersection of Two Arrays II](https://github.com/karenkao/LeetCode/blob/main/Intersection%20of%20Two%20Arrays%20II.md)
 - [Valid Sudoku](https://github.com/karenkao/LeetCode/blob/main/Valid%20Sudoku.md)
 - [Rotate Image](https://github.com/karenkao/LeetCode/blob/main/Rotate%20Image.md)
+- [Remove Duplicates from Sorted Array](https://github.com/karenkao/LeetCode/blob/main/Remove%20Duplicates%20from%20Sorted%20Array.md)
+- [Reverse Integer](https://github.com/karenkao/LeetCode/blob/main/Reverse%20Integer.md)
+- [Reverse String](https://github.com/karenkao/LeetCode/blob/main/Reverse%20String.md)
+- [Rotate Image](https://github.com/karenkao/LeetCode/blob/main/Rotate%20Image.md)
 
 
 ## Additional Information
