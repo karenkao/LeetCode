@@ -1,6 +1,6 @@
 # LeetCode
 
-## Top Interview Questions 18/50
+## Top Interview Questions 19/50
 
 - [Two Sum](https://github.com/karenkao/LeetCode/blob/main/Two%20Sum.md)
 - [Single Number](https://github.com/karenkao/LeetCode/blob/main/Single%20Number.md)
@@ -20,6 +20,7 @@
 - [Valid Palindrome](https://github.com/karenkao/LeetCode/blob/main/Valid%20Palindrome.md)
 - [Implement strStr()](https://github.com/karenkao/LeetCode/blob/main/Implement%20strStr().md)
 - [Longest Common Prefix](https://github.com/karenkao/LeetCode/blob/main/Longest%20Common%20Prefix.md)
+- [String to Integer (atoi)](https://github.com/karenkao/LeetCode/blob/main/String%20to%20Integer%20(atoi).md)
 
 
 ## Additional Information
