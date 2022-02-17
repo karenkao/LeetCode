@@ -1,6 +1,6 @@
 # LeetCode
 
-## Top Interview Questions 20/50
+## Top Interview Questions 2/50
 
 - [Two Sum](https://github.com/karenkao/LeetCode/blob/main/Two%20Sum.md)
 - [Single Number](https://github.com/karenkao/LeetCode/blob/main/Single%20Number.md)
@@ -22,7 +22,7 @@
 - [Longest Common Prefix](https://github.com/karenkao/LeetCode/blob/main/Longest%20Common%20Prefix.md)
 - [String to Integer (atoi)](https://github.com/karenkao/LeetCode/blob/main/String%20to%20Integer%20(atoi).md)
 - [Count Primes](https://github.com/karenkao/LeetCode/blob/main/Count%20Primes.md)
-
+- [Power of Three](https://github.com/karenkao/LeetCode/blob/main/Power%20of%20Three.md)
 
 ## Additional Information
 
