@@ -23,6 +23,7 @@
 - [String to Integer (atoi)](https://github.com/karenkao/LeetCode/blob/main/String%20to%20Integer%20(atoi).md)
 - [Count Primes](https://github.com/karenkao/LeetCode/blob/main/Count%20Primes.md)
 - [Power of Three](https://github.com/karenkao/LeetCode/blob/main/Power%20of%20Three.md)
+- [Roman to Integer](https://github.com/karenkao/LeetCode/blob/main/Roman%20to%20Integer.md)
 
 ## Additional Information
 
