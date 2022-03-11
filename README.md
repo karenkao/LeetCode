@@ -1,6 +1,6 @@
 # LeetCode
 
-## Top Interview Questions 21/50
+## Top Interview Questions 22/50
 
 - [Two Sum](https://github.com/karenkao/LeetCode/blob/main/Two%20Sum.md)
 - [Single Number](https://github.com/karenkao/LeetCode/blob/main/Single%20Number.md)
