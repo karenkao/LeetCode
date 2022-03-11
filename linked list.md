@@ -12,7 +12,12 @@ linked list 跟 array 放在一起理解， 也會比較他們的優缺點
 
 先說 liked list 的方式，它每一個 node 存值和 liked 下一個是誰的功能，就像是火車一節一節的概念，所以當要對她操作的時候，只要改變 liked 的動作就可以了，像是我要delete 其中一個 node ，我就把 linked 到 next ，那中間那個值自然就被拋棄了。
 
-- ref yt video : https://www.youtube.com/watch?v=-LmHUlozTqE
 
 ## 放一張比較圖
 
+![1_nDwDbeHwOz_Kl4zRIMbe_A](https://user-images.githubusercontent.com/88547312/157837644-2d8d54ee-5254-4053-9a5e-918f9457f233.png)
+
+
+## ref
+- yt video : https://www.youtube.com/watch?v=-LmHUlozTqE
+- medium https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d
