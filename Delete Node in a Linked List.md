@@ -17,6 +17,8 @@ linked list 跟 array 放在一起理解， 也會比較他們的優缺點
 
 放一張我覺得的最好的比對圖：
 
+![1_nDwDbeHwOz_Kl4zRIMbe_A](https://user-images.githubusercontent.com/88547312/157839402-03640f81-5e16-4857-a925-102ef6c186ad.png)
+
 
 ```python
 # # Definition for singly-linked list.
