@@ -20,6 +20,11 @@ linked list 跟 array 放在一起理解， 也會比較他們的優缺點
 ![1_nDwDbeHwOz_Kl4zRIMbe_A](https://user-images.githubusercontent.com/88547312/157839402-03640f81-5e16-4857-a925-102ef6c186ad.png)
 
 
+## 解題
+
+這一題他要刪除一個元素，通常都是給要刪除的前一個，然後直接連結到要刪除的後一個，但她卻是給要刪除的那一個，那就是要把要刪除的下一個就變成這一個，要刪除的下一個變成下下個。
+
+
 ```python
 # # Definition for singly-linked list.
 # class ListNode:
