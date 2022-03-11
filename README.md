@@ -28,3 +28,4 @@
 ## Additional Information
 
 - [Time complexity](https://github.com/karenkao/LeetCode/blob/main/Time%20complexity.md)
+- [Linked list](https://github.com/karenkao/LeetCode/blob/main/Linked%20list.md)
