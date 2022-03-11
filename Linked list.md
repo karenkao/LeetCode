@@ -1,6 +1,4 @@
-# linked list
-
-## linked list introduction
+# Linked list
 
 linked list 跟 array 放在一起理解， 也會比較他們的優缺點
 
