@@ -68,3 +68,41 @@ Finished in 63 ms
 [444, 2, 3, 4]
 
 ```
+回到題目，還有一個邊界值要考慮，有幾個可能：
+
+1. n  = len(linkedlist)  => 那這個就是第一個值被跳過，直接下一個
+，再 retrun head 
+2. n  > len(linkedlist)  => 題目限制沒有這種
+3. n  < len(linkedlist)  => 這個已經完成
+
+所以修改後完整的第一板是：
+
+```python
+
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        
+        count_head, count_node = head, head
+        len_linkedlist = 1
+        
+        while count_head.next is not None:
+            len_linkedlist +=1
+            count_head = count_head.next
+            
+       
+        if n == len_linkedlist:
+            head = head.next
+            return head
+        else:
+            
+            for i in range(len_linkedlist-n-1):
+                count_node = count_node.next
+            count_node.next = count_node.next.next
+            return head
+
+```
+
+因為第一版會超過時間，所以要來想第二個版本，第一版的 loop 要跑兩次，一次跑計算總長 len ，第二次是看倒數幾個，那把 loop 兩次減半就可以加速了。
+
+所以這樣做， 有兩個 pointer 的概念，一個是 fast pointer 和 slow pointer， 他們兩個差 n step 出發，也就是說 fast pointer first tow go ，but slow pointer waits n step then go ，
+跑完全部(也就是 next = None 的時候) ，fast 走到最後了， slow 就會是他要被跳果的也就是倒數 n 個，那這裡直接做 remove 的動作，我們的 loop 就不用跑兩次。
