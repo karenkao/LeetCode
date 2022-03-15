@@ -105,4 +105,36 @@ class Solution:
 因為第一版會超過時間，所以要來想第二個版本，第一版的 loop 要跑兩次，一次跑計算總長 len ，第二次是看倒數幾個，那把 loop 兩次減半就可以加速了。
 
 所以這樣做， 有兩個 pointer 的概念，一個是 fast pointer 和 slow pointer， 他們兩個差 n step 出發，也就是說 fast pointer first tow go ，but slow pointer waits n step then go ，
-跑完全部(也就是 next = None 的時候) ，fast 走到最後了， slow 就會是他要被跳果的也就是倒數 n 個，那這裡直接做 remove 的動作，我們的 loop 就不用跑兩次。
+跑完全部(也就是 next = None 的時候) ，fast 走到最後了， slow 就會是他要被跳過的也就是倒數 n 個，那這裡直接做 remove 的動作，我們的 loop 就不用跑兩次~
+
+最後要檢查一個情況是， fast 跑到最後但是 slow 還沒出發也就是在第一個位置，這個時候就是 return head = head.next
+
+- second solution 
+
+```python 
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        
+        fast_node, slow_node = head, head
+        count = 0
+        while fast_node.next is not None:
+                
+            fast_node = fast_node.next
+            count += 1
+
+            if count == n:
+                slow_node = head
+            elif count > n:
+                slow_node = slow_node.next
+                
+        if count < n:
+            head = head.next
+            return head
+        else:
+            slow_node.next = slow_node.next.next  
+        return head
+     
+```
+
+
+- share my solution in python on leetcode : https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/discuss/1851161/my-solution-in-python
