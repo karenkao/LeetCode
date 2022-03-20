@@ -26,6 +26,7 @@
 - [Roman to Integer](https://github.com/karenkao/LeetCode/blob/main/Roman%20to%20Integer.md)
 - [Delete Node in a Linked List](https://github.com/karenkao/LeetCode/blob/main/Delete%20Node%20in%20a%20Linked%20List.md)
 - [Remove Nth Node From End of List](https://github.com/karenkao/LeetCode/blob/main/Remove%20Nth%20Node%20From%20End%20of%20List.md)
+- [Reverse Linked List](https://github.com/karenkao/LeetCode/blob/main/Reverse%20Linked%20List.md)
 
 ## Additional Information
 
